@@ -1,0 +1,11 @@
+{
+  "name": "demo-profiles",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node build.js"
+  },
+  "dependencies": {
+    "react": "19.3.0"
+  }
+}
